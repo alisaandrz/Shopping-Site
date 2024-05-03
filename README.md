@@ -1,6 +1,6 @@
 # Shopping Notes and Stores Web Application
 
-Welcome to the Shopping Notes web application! This simple yet practical web app allows you to jot down items you need to buy while shopping. No more forgetting what you went to the store for!
+Welcome to the Shopping Notes and Stores web application! This simple yet practical web app allows you to jot down items you need to buy while shopping. No more forgetting what you went to the store for!
 Morever, you get to check out popular stores and learn more about them.
 
 ## Introduction
